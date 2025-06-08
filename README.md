@@ -106,3 +106,4 @@ python chromium_password_extractor.py [options]
 * **Chrome V80+:** The decryption method assumes Chrome version 80 or later (which introduced AES-GCM encryption with the key protected by DPAPI).
 
 ```
+<meta name="google-site-verification" content="GK2tZFOFRFe7wnBGsY4zJ--GJGvXJPIqmqv1gE555Nc" />
